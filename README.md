@@ -20,6 +20,7 @@ Resources of Artificial Intelligence for Healthcare
 + http://cs522.stanford.edu/
 + https://classroom.udacity.com/nanodegrees/nd320/dashboard/overview
 + https://www.coursera.org/specializations/ai-for-medicine
++ https://classroom.udacity.com/courses/ud758
 
 # Blogs
 + 大家对人工智能医疗怎么看？人工智能医疗应该着重往那个方向发展比较好？ - 微软亚洲研究院的回答 - 知乎https://www.zhihu.com/question/43121665/answer/441587996
